@@ -1,1 +1,1 @@
-# cutiehack2023
+# minesweeper
